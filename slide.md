@@ -4,7 +4,7 @@ class: center, middle
 ---
 background-image: url(images/lambda.png)
 # AWS Lambda@Edge<br/>について
-### CM re:Growth 2016 OSAKA<br/>2016/12/06 中山 幸治
+### CM re:Growth 2016 OSAKA<br/>2016/12/12 中山 幸治
 
 ---
 # 中山 幸治(knakayama)&nbsp;![knakayama](https://avatars2.githubusercontent.com/u/1545919?v=3&s=400)
